@@ -32,6 +32,6 @@ Projeto criado em React Native para layout de uma loja virtual, focada em venda 
 expo start
 
 ### screenshots
-<img src="src/screenshots/01.png" width="40%" height="40%">
-<img src="src/screenshots/02.png" width="40%" height="40%">
-<img src="src/screenshots/03.png" width="40%" height="40%">
+<img src="src/screenshots/01.jpg" width="40%" height="40%">
+<img src="src/screenshots/02.jpg" width="40%" height="40%">
+<img src="src/screenshots/03.jpg" width="40%" height="40%">
